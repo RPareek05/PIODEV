@@ -1,6 +1,4 @@
 **free
-Dcl-S Counter Int(5) INz;
-*inlr = *on;
  dsply 'hello';
 dsply 'world';
 
